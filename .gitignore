@@ -1,0 +1,8 @@
+# File
+config.txt
+
+# Folder
+data/
+#Pola
+*.exe 
+# artinya semua file dengan extension exe
